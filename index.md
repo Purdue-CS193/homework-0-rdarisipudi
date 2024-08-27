@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 # Rithvik Darisipudi's First CS193 Homework
 
-# Favorite Things About CS193:
+My Favorite Things About CS193:
 
 - This class helps with my main CS class, CS180
 - This clas is smaller and helps with more focused instruction
